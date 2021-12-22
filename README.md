@@ -15,11 +15,6 @@
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/developer-geekay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="developer-geekay" height="30" width="40" /></a>
-</p>
-
 ### 🛠 &nbsp;Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -42,7 +37,7 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/AVS1508">
+<a href="https://github.com/developer-geekay">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=developer-geekay&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=developer-geekay&layout=compact&langs_count=8&theme=algolia"/>
 </a>
@@ -52,7 +47,7 @@
 
 <p align="center">
 <a href="https://consoleapi.in"><img src="https://img.shields.io/badge/-consoleapi.in-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://linkedin.com/in/developer-geekay"><img src="https://img.shields.io/badge/developer-geekay-?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://linkedin.com/in/developer-geekay"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:developergeekay@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
