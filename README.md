@@ -1,55 +1,84 @@
-<h1 align="center">Hi 👋, I'm Developer Geekay</h1>
+## 👋 Hi, I'm Geekay
 
+**Full-Stack Engineer • Low-Code Expert • DevOps Enthusiast**
 
-<!-- ## 👋 &nbsp;Hey there! I'm Developer Geekay -->
+---
 
-### 👨🏻‍💻 &nbsp;About Me
+### 🧠 Who Am I?
 
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently working on Linux cloud server application.\
-🌱 &nbsp;I'm on track for learning more about Systems Design, and Cloud Architecture.\
-✍️ &nbsp;In my free time, I pursue Graphic Design.\
-💬 &nbsp;Feel free to reach out to me for work support, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at developergeekay@gmail.com! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Works](developer.consoleapi.in) for more details about me. I'm open to feedback and suggestions!
+I’m a multi-stack developer who thrives at the intersection of **code, cloud, and creativity**.
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+With a foundation built on **MEAN**, **MERN**, and **LAMP/LEMP** stacks, and over 5 years of experience in **OutSystems development**, I bring versatility across both high-code and low-code ecosystems. Whether it’s building scalable SPAs, automating infrastructure, or designing elegant UIs — I bring ideas to life with precision and performance.
 
-### 🛠 &nbsp;Tech Stack
+🏅 **Certified OutSystems Professional**  
+🏅 **Certified Neutrinos Developer**
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)\
-![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
-![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
+---
 
-### ⚙️ &nbsp;GitHub Analytics
+### 🔧 What I Do
 
-<p align="center">
-<a href="https://github.com/developer-geekay">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=developer-geekay&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=developer-geekay&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+- Build full-stack web apps using Angular, React, Node.js & PHP  
+- Develop enterprise apps with OutSystems (since 2019)  
+- Manage Linux servers and automate with Git & CI/CD  
+- Design clean, responsive UIs with modern frameworks  
+- Explore DevOps, PWAs, and smart offline-first solutions  
+
+---
+
+### 🛠️ Tech Stack
+
+#### 💻 Full-Stack Development  
+<p>
+  <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/CodeIgniter-EF4223?logo=codeigniter&logoColor=white" />
 </p>
 
-### 🤝🏻 &nbsp;Connect with Me
-
-<p align="center">
-<a href="https://consoleapi.in"><img src="https://img.shields.io/badge/-consoleapi.in-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://linkedin.com/in/developer-geekay"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:developergeekay@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+#### 🚀 Low-Code Platforms  
+<p>
+  <img src="https://img.shields.io/badge/OutSystems-E62B1E?logo=outsystems&logoColor=white" />
+  <img src="https://img.shields.io/badge/Neutrinos-003366?logo=data:image/svg+xml;base64,&logoColor=white" alt="Neutrinos (custom icon)" />
 </p>
 
------
-Credits: [Developer Geekay](https://github.com/developer-geekay)
+#### 🧰 Tools & DevOps  
+<p>
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/CI/CD-007ACC?logo=azurepipelines&logoColor=white" />
+</p>
+
+#### 🎨 UI/UX & Design  
+<p>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/SCSS-CC6699?logo=sass&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?logo=adobeillustrator&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=white" />
+</p>
+
+---
+
+### 🌱 I’m Always Exploring
+
+- AI-powered developer tools  
+- VR-ready video streaming platforms  
+- Offline-first mobile apps  
+- Lightweight custom CLIs and daemons  
+
+---
+
+### 📫 Let's Connect
+
+- 📧 developergeekay@gmail.com  
+
+---
+
+### 📈 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Developer-Geekay&show_icons=true&theme=default)
