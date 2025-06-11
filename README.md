@@ -73,12 +73,19 @@ With a foundation built on **MEAN**, **MERN**, and **LAMP/LEMP** stacks, and ove
 
 ---
 
-### 📫 Let's Connect
+### 🤝🏻 &nbsp;Connect with Me
 
-- 📧 developergeekay@gmail.com  
+<p align="center">
+<a href="https://consoleapi.in"><img src="https://img.shields.io/badge/-consoleapi.in-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://linkedin.com/in/developer-geekay"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:developergeekay@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 
 ---
+<p align="center">
+<a href="https://github.com/developer-geekay">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=developer-geekay&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=developer-geekay&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
-### 📈 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Developer-Geekay&show_icons=true&theme=default)
