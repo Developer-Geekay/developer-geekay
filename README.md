@@ -106,39 +106,38 @@
       <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white"/>
     </td>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/Developer-Geekay/ngxtailui">🎨 ngxtailui</a></h4>
-      <p>Angular component library powered by Tailwind CSS. A collection of ready-to-use, design-consistent UI components built for Angular applications.</p>
-      <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white"/>
-      <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
       <h4><a href="https://github.com/Developer-Geekay/outsystems-devtools">🔧 outsystems-devtools</a></h4>
       <p>Chrome extension for OutSystems developers — application inspection, network monitoring, and bulk title engine to supercharge the OutSystems development workflow.</p>
       <img src="https://img.shields.io/badge/OutSystems-E62B1E?style=flat-square&logo=outsystems&logoColor=white"/>
       <img src="https://img.shields.io/badge/Chrome%20Extension-4285F4?style=flat-square&logo=googlechrome&logoColor=white"/>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h4><a href="https://github.com/Developer-Geekay/OutSystemsWidgetKit">🧩 OutSystemsWidgetKit</a></h4>
       <p>A widget toolkit for OutSystems — reusable, extensible UI components designed to plug into OutSystems low-code applications seamlessly.</p>
       <img src="https://img.shields.io/badge/OutSystems-E62B1E?style=flat-square&logo=outsystems&logoColor=white"/>
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h4><a href="https://github.com/Developer-Geekay/cordova-plugin-hyperpay">💳 cordova-plugin-hyperpay</a></h4>
       <p>Cordova plugin integrating the HyperPay payment gateway into hybrid mobile apps — enabling secure in-app payment flows for iOS and Android.</p>
       <img src="https://img.shields.io/badge/Cordova-E8E8E8?style=flat-square&logo=apachecordova&logoColor=black"/>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h4><a href="https://github.com/Developer-Geekay/cordova-plugin-regula">📖 cordova-plugin-regula</a></h4>
       <p>Cordova plugin for Regula document reader — enables identity document scanning and verification inside hybrid mobile applications.</p>
       <img src="https://img.shields.io/badge/Cordova-E8E8E8?style=flat-square&logo=apachecordova&logoColor=black"/>
       <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/Developer-Geekay/cordova-plugin-faceki">👤 cordova-plugin-faceki</a></h4>
+      <p>Cordova plugin for Faceki — integrates AI-powered face recognition and liveness detection for KYC verification flows in hybrid mobile apps.</p>
+      <img src="https://img.shields.io/badge/Cordova-E8E8E8?style=flat-square&logo=apachecordova&logoColor=black"/>
       <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
     </td>
   </tr>
@@ -150,11 +149,19 @@
       <img src="https://img.shields.io/badge/WebAssembly-654FF0?style=flat-square&logo=webassembly&logoColor=white"/>
     </td>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/Developer-Geekay/vpn-app">🔒 vpn-app</a></h4>
-      <p>Android VPN client application built in Kotlin, providing secure tunneling and network privacy on mobile devices.</p>
-      <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
+      <h4><a href="https://github.com/Developer-Geekay/expense-app">💰 expense-app</a></h4>
+      <p>A personal finance and expense tracking application — manage budgets, categorise spending, and visualise financial data with a clean TypeScript-based UI.</p>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
     </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/Developer-Geekay/yt-downloader">🎥 yt-downloader</a></h4>
+      <p>A YouTube video downloader tool — fetch and save videos in multiple formats and resolutions via a simple JavaScript-based interface.</p>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+    </td>
+    <td width="50%" valign="top"></td>
   </tr>
 </table>
 
