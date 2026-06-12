@@ -94,6 +94,72 @@
 
 ---
 
+### 🚀 Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/Developer-Geekay/hostpanel">🖥️ hostpanel</a></h4>
+      <p>Self-hosted server management panel with a modular package architecture. Packages cover Nginx, FTP, MySQL, MongoDB, Node.js, PHP, File Manager, and WireGuard VPN — each as an independent deployable module.</p>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white"/>
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/Developer-Geekay/ngxtailui">🎨 ngxtailui</a></h4>
+      <p>Angular component library powered by Tailwind CSS. A collection of ready-to-use, design-consistent UI components built for Angular applications.</p>
+      <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white"/>
+      <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/Developer-Geekay/outsystems-devtools">🔧 outsystems-devtools</a></h4>
+      <p>Chrome extension for OutSystems developers — application inspection, network monitoring, and bulk title engine to supercharge the OutSystems development workflow.</p>
+      <img src="https://img.shields.io/badge/OutSystems-E62B1E?style=flat-square&logo=outsystems&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Chrome%20Extension-4285F4?style=flat-square&logo=googlechrome&logoColor=white"/>
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/Developer-Geekay/OutSystemsWidgetKit">🧩 OutSystemsWidgetKit</a></h4>
+      <p>A widget toolkit for OutSystems — reusable, extensible UI components designed to plug into OutSystems low-code applications seamlessly.</p>
+      <img src="https://img.shields.io/badge/OutSystems-E62B1E?style=flat-square&logo=outsystems&logoColor=white"/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/Developer-Geekay/cordova-plugin-hyperpay">💳 cordova-plugin-hyperpay</a></h4>
+      <p>Cordova plugin integrating the HyperPay payment gateway into hybrid mobile apps — enabling secure in-app payment flows for iOS and Android.</p>
+      <img src="https://img.shields.io/badge/Cordova-E8E8E8?style=flat-square&logo=apachecordova&logoColor=black"/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/Developer-Geekay/cordova-plugin-regula">📖 cordova-plugin-regula</a></h4>
+      <p>Cordova plugin for Regula document reader — enables identity document scanning and verification inside hybrid mobile applications.</p>
+      <img src="https://img.shields.io/badge/Cordova-E8E8E8?style=flat-square&logo=apachecordova&logoColor=black"/>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/Developer-Geekay/google_auth_wasm">⚡ google_auth_wasm</a></h4>
+      <p>Google Authenticator TOTP implementation compiled to WebAssembly using Rust — bringing native-speed 2FA generation directly into the browser.</p>
+      <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white"/>
+      <img src="https://img.shields.io/badge/WebAssembly-654FF0?style=flat-square&logo=webassembly&logoColor=white"/>
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/Developer-Geekay/vpn-app">🔒 vpn-app</a></h4>
+      <p>Android VPN client application built in Kotlin, providing secure tunneling and network privacy on mobile devices.</p>
+      <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
+    </td>
+  </tr>
+</table>
+
+---
+
 ### 📊 GitHub Stats
 
 <div align="center">
