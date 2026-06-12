@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=750&lines=Solution+Architect+%7C+Full-Stack+Engineer;Low-Code+%2B+High-Code+Integration+Expert;Designing+systems+that+outlast+deadlines+%F0%9F%8F%97%EF%B8%8F;API-first+%E2%80%A2+Microservices+%E2%80%A2+Offline-first;Engineering+depth+%2B+Delivery+focus+%F0%9F%9A%80)](https://gokulakannan.dev)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=800&lines=Technical+Architect+%7C+8%2B+Years;OutSystems+Architecture+%26+Enterprise+Integrations;Fintech+%7C+Banking+%7C+Insurance+%7C+Digital+Transformation;Low-Code+%2B+High-Code+%7C+Full-Stack+Engineering;Architecting+platforms+that+scale+%F0%9F%8F%97%EF%B8%8F)](https://gokulakannan.dev)
 
 <br/>
 
@@ -10,6 +10,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/developer-geekay)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:developergeekay@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-161B22?style=flat-square&logo=github&logoColor=white)](https://github.com/developer-geekay)
+![Status](https://img.shields.io/badge/Status-Available%20for%20Opportunities-22c55e?style=flat-square)
 
 </div>
 
@@ -19,30 +20,37 @@
 
 ```json
 {
-  "name"      : "Gokula Kannan",
-  "alias"     : "developer-geekay",
-  "role"      : "Solution Architect · Full-Stack Engineer",
-  "niche"     : "Low-Code + High-Code Integration",
-  "based_in"  : "India 🇮🇳",
-  "website"   : "https://gokulakannan.dev",
-  "motto"     : "Architect for scale. Build for humans."
+  "name"        : "Gokula Kannan",
+  "alias"       : "developer-geekay",
+  "role"        : "Technical Architect",
+  "experience"  : "8+ years",
+  "domains"     : ["Fintech", "Banking", "Insurance", "Digital Transformation"],
+  "speciality"  : "OutSystems Architecture · Enterprise Integrations · Mobile Solutions",
+  "education"   : "Master of Computer Applications (MCA)",
+  "website"     : "https://gokulakannan.dev",
+  "status"      : "Available",
+  "motto"       : "Architect for scale. Build for humans."
 }
 ```
+
+> Technical Architect with **8+ years** designing and delivering enterprise-grade applications across **banking, financial services, insurance** and digital transformation initiatives.
+> Specialized in **OutSystems architecture**, enterprise integrations, mobile solutions, and multi-stack development — with proven expertise in solution design, performance optimization, and technical leadership.
 
 ---
 
 ### 🧠 What I Do
 
 ```
-╭───────────────────────────────────────────────────────────────────────────────╮
-│                                                                           │
-│  🏗️  Architect   →  Enterprise systems · Microservices · Multi-tenant       │
-│  🔗  Integrate   →  Low-code platforms ✕ custom engineering                   │
-│  ⚡  Engineer    →  Scalable APIs · Offline-first · Performance-tuned         │
-│  🚀  Deliver     →  DevOps · CI/CD · Production-ready from day one             │
-│  🔍  Explore     →  Distributed systems · Edge patterns · Platform design      │
-│                                                                           │
-╰───────────────────────────────────────────────────────────────────────────────╯
+╭────────────────────────────────────────────────────────────────────────────╮
+│                                                                          │
+│  🏗️  Architect   →  Enterprise platforms · Microservices · Multi-tenant     │
+│  🔗  Integrate   →  OutSystems low-code ✕ custom high-code stacks             │
+│  ⚡  Engineer    →  Scalable APIs · Offline-first · Performance-tuned        │
+│  📱  Mobile      →  Native + Hybrid mobile solutions via OutSystems           │
+│  🚀  Deliver     →  DevOps · CI/CD · Production-ready from day one            │
+│  🤝  Lead        →  Mentoring teams · Architecture standards · Tech strategy   │
+│                                                                          │
+╰────────────────────────────────────────────────────────────────────────────╯
 ```
 
 ---
@@ -56,9 +64,9 @@
   <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RxJS-B7178C?style=flat-square&logo=reactivex&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RxJS-B7178C?style=flat-square&logo=reactivex&logoColor=white"/>
 </p>
 </details>
 
@@ -106,6 +114,53 @@
 
 ---
 
+### 🚀 Deployment Logs — Featured Projects
+
+| Project | Domain | Stack | What it does |
+|---|---|---|---|
+| **Enterprise Digital Platform** | Fintech | OutSystems · Angular · PayPal · MapBox | Low-code enterprise platform with legacy integrations, native mobile plugins & custom payment flows |
+| **OutSystems DevTools** | Tooling | Chrome Extension · OutSystems | Developer productivity extension — app inspection, network monitoring, bulk title engine |
+| **Dealer Award Systems** | Automotive | OutSystems · Angular | End-to-end architecture & delivery for Jeep's global dealer recognition program |
+| **First Notice of Loss (FNOL)** | Insurance | OutSystems · React | Enterprise insurance claim management platform — full end-to-end FNOL flows |
+
+---
+
+### 💼 Career History
+
+```
+2021 ─ Present  │  Technical Architect        │ ● CURRENT
+                 │  Leading architecture & delivery of Enterprise Digital Platform
+                 │  Tech lead across Angular, React & OutSystems stacks
+                 │  Establishing architecture standards & best practices
+
+2019 ─ 2021     │  Technical Architect
+                 │  Architecture leadership for enterprise banking/motors platforms
+                 │  Led solution design for Dealer Award Systems & FNOL
+                 │  Defined architecture standards & developer practices
+
+2017 ─ 2019     │  Senior Software Engineer
+                 │  Technical analysis & guidance for a cross-functional team
+                 │  Architecture planning & FNOL insurance platform delivery
+
+2015 ─ 2017     │  Senior Software Engineer
+                 │  Dual-app web/React delivery & story writing
+                 │  Release management & increment ownership
+
+2014 ─ 2015     │  Software Engineer
+                 │  Architected OutSystems low-code solutions
+                 │  Built scalable API metrics & reusable platform components
+
+2013 ─ 2014     │  Web Developer
+                 │  Cloud migration & virtualization solutions
+                 │  Responsive web applications
+
+2011 ─ 2013     │  Web Developer
+                 │  Database-backed web & mobile applications
+                 │  Payment gateway integrations & business systems
+```
+
+---
+
 ### 📊 GitHub Stats
 
 <div align="center">
@@ -127,14 +182,49 @@
 
 ---
 
+### 🏆 Certifications & Education
+
+<table>
+  <tr>
+    <td valign="top" width="55%">
+
+**📜 Certifications**
+- OutSystems React — Certified
+- OutSystems Front-end Developer Specialist (R&I · SR1)
+- OutSystems Associate Developer (SD1)
+- OutSystems Associate Developer Plus
+- OutSystems Associate Mobile Runtime Developer
+- Angular — The Complete Guide
+- AngularJS Certified Professional Developer
+
+    </td>
+    <td valign="top" width="45%">
+
+**🎓 Education**
+- **Master of Computer Applications (MCA)**
+
+**🏅 Awards**
+- Best Team Player Award — *Accenture*
+
+**🌍 Languages**
+- Tamil — Native
+- English — Professional
+- Hindi — Limited
+
+    </td>
+  </tr>
+</table>
+
+---
+
 ### 🎯 Right Now
 
-| | Focus |
+| | |
 |---|---|
-| 🔨 Building | Production platforms bridging low-code & bespoke engineering |
-| 🌱 Learning | Scalable offline-first & edge computing patterns |
-| 🤝 Open to | Architecture consulting · OSS collaboration · Interesting problems |
-| 💬 Ask me | System design · Low-code strategy · Full-stack architecture |
+| 🔨 Building | Production enterprise platforms bridging OutSystems low-code & custom engineering |
+| 🌱 Exploring | Edge computing patterns & scalable offline-first architectures |
+| 🤝 Open to | Architecture consulting · OSS collaboration · Interesting enterprise problems |
+| 💬 Ask me | OutSystems · System design · Low-code strategy · Full-stack architecture |
 | ⚡ Alias | **developer-geekay** — my dev identity across the internet |
 
 ---
