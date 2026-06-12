@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,40:0f3460,80:1F6FEB,100:58A6FF&height=220&section=header&text=Gokula%20Kannan&fontSize=62&fontColor=ffffff&fontAlignY=42&desc=a.k.a%20%E2%9C%A6%20Geekay%20%E2%9C%A6&descAlignY=62&descSize=22&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,40:0f3460,80:1F6FEB,100:58A6FF&height=220&section=header&text=Gokula%20Kannan&fontSize=62&fontColor=ffffff&fontAlignY=42&desc=a.k.a%20developer-geekay&descAlignY=62&descSize=22&animation=twinkling" width="100%"/>
 
 <div align="center">
 
@@ -6,23 +6,21 @@
 
 <br/>
 
-[![Website](https://img.shields.io/badge/%F0%9F%8C%90_gokulakannan.dev-0f3460?style=for-the-badge&logoColor=white)](https://gokulakannan.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/developer-geekay)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:developergeekay@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/developer-geekay)
+[![Website](https://img.shields.io/badge/%F0%9F%8C%90_gokulakannan.dev-0f3460?style=flat-square&logoColor=white)](https://gokulakannan.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/developer-geekay)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:developergeekay@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-161B22?style=flat-square&logo=github&logoColor=white)](https://github.com/developer-geekay)
 
 </div>
 
 ---
-
-<img align="right" width="340" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="contribution snake"/>
 
 ### `$ whoami`
 
 ```json
 {
   "name"      : "Gokula Kannan",
-  "alias"     : "Geekay",
+  "alias"     : "developer-geekay",
   "role"      : "Solution Architect · Full-Stack Engineer",
   "niche"     : "Low-Code + High-Code Integration",
   "based_in"  : "India 🇮🇳",
@@ -30,8 +28,6 @@
   "motto"     : "Architect for scale. Build for humans."
 }
 ```
-
-<br clear="right"/>
 
 ---
 
@@ -57,12 +53,12 @@
 <summary><b>🎨 Frontend</b></summary>
 <br/>
 <p>
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RxJS-B7178C?style=flat-square&logo=reactivex&logoColor=white"/>
 </p>
 </details>
 
@@ -70,11 +66,11 @@
 <summary><b>⚙️ Backend</b></summary>
 <br/>
 <p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST%20API-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=flat-square&logo=codeigniter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST%20API-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white"/>
 </p>
 </details>
 
@@ -82,8 +78,8 @@
 <summary><b>🗄️ Data</b></summary>
 <br/>
 <p>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 </p>
 </details>
 
@@ -91,8 +87,8 @@
 <summary><b>🧩 Low-Code Platforms</b></summary>
 <br/>
 <p>
-  <img src="https://img.shields.io/badge/OutSystems-E62B1E?style=for-the-badge&logo=outsystems&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Neutrinos-003366?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OutSystems-E62B1E?style=flat-square&logo=outsystems&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Neutrinos-003366?style=flat-square&logoColor=white"/>
 </p>
 </details>
 
@@ -100,11 +96,11 @@
 <summary><b>🔧 DevOps & Infra</b></summary>
 <br/>
 <p>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CI%2FCD-007ACC?style=for-the-badge&logo=azurepipelines&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CI%2FCD-007ACC?style=flat-square&logo=azurepipelines&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white"/>
 </p>
 </details>
 
@@ -139,7 +135,15 @@
 | 🌱 Learning | Scalable offline-first & edge computing patterns |
 | 🤝 Open to | Architecture consulting · OSS collaboration · Interesting problems |
 | 💬 Ask me | System design · Low-code strategy · Full-stack architecture |
-| ⚡ Alias | **Geekay** — my dev identity across the internet |
+| ⚡ Alias | **developer-geekay** — my dev identity across the internet |
+
+---
+
+### 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="contribution snake animation" width="100%"/>
+</div>
 
 ---
 
