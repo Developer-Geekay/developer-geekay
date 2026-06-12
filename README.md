@@ -1,23 +1,43 @@
 <!-- HERO -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0D1117,30:0f1923,70:0f3460,100:1F6FEB&height=260&section=header&text=%3E_%20GOKULA%20KANNAN&fontSize=48&fontColor=58A6FF&fontAlignY=45&desc=Technical%20Architect%20%2F%2F%20developer-geekay&descAlignY=65&descSize=18&descColor=8b949e&animation=blinking&stroke=1F6FEB&strokeWidth=1" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0D1117&height=3&section=header"/>
 
-</div>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td align="left" valign="middle" width="60%">
 
-```bash
-$ init --user developer-geekay
-
-  Initializing OutSystems core...          [OK]
-  Architecting enterprise platforms...     [OK]
-  Loading 8+ years of experience...        [OK]
-  Connecting fintech & banking modules...  [OK]
-  Status: ONLINE
 ```
 
-<div align="center">
+  ███████  ███████  
+  ██       ██  ██  
+  █████    ███████  
+  ██       ██  ██  
+  ███████  ██  ██  
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=800&lines=Technical+Architect+%7C+8%2B+Years;OutSystems+Architecture+%26+Enterprise+Integrations;Fintech+%7C+Banking+%7C+Insurance+%7C+Digital+Transformation;Low-Code+%2B+High-Code+%7C+Full-Stack+Engineering;Architecting+platforms+that+scale+%F0%9F%8F%97%EF%B8%8F)](https://gokulakannan.dev)
+  GOKULA KANNAN
+  Technical Architect
+  developer-geekay
+
+```
+
+</td>
+<td align="center" valign="middle" width="40%">
+
+```yaml
+status  : ONLINE
+exp     : 8+ years
+focus   : OutSystems
+          Enterprise
+          Fintech
+          Banking
+```
+
+</td>
+</tr>
+</table>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=2500&pause=800&color=39D353&center=true&vCenter=true&width=700&lines=%E2%96%B6+Initializing+OutSystems+core...+%5BOK%5D;%E2%96%B6+Architecting+enterprise+platforms...+%5BOK%5D;%E2%96%B6+Loading+8%2B+years+of+experience...+%5BOK%5D;%E2%96%B6+Connecting+fintech+%26+banking+modules...+%5BOK%5D;%E2%96%B6+All+systems+operational.+%5BONLINE%5D" alt="boot"/>
 
 <br/>
 
@@ -27,6 +47,8 @@ $ init --user developer-geekay
 [![GitHub](https://img.shields.io/badge/GitHub-161B22?style=flat-square&logo=github&logoColor=white)](https://github.com/developer-geekay)
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2&section=header" width="100%"/>
 
 ---
 
