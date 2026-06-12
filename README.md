@@ -1,43 +1,12 @@
-<!-- HERO -->
+<div align="center">
+<img src="./assets/banner.svg" width="100%" alt="Gokula Kannan — Technical Architect"/>
+</div>
+
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0D1117&height=3&section=header"/>
+<br/>
 
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
-<tr>
-<td align="left" valign="middle" width="60%">
-
-```
-
-  ███████  ███████  
-  ██       ██  ██  
-  █████    ███████  
-  ██       ██  ██  
-  ███████  ██  ██  
-
-  GOKULA KANNAN
-  Technical Architect
-  developer-geekay
-
-```
-
-</td>
-<td align="center" valign="middle" width="40%">
-
-```yaml
-status  : ONLINE
-exp     : 8+ years
-focus   : OutSystems
-          Enterprise
-          Fintech
-          Banking
-```
-
-</td>
-</tr>
-</table>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=2500&pause=800&color=39D353&center=true&vCenter=true&width=700&lines=%E2%96%B6+Initializing+OutSystems+core...+%5BOK%5D;%E2%96%B6+Architecting+enterprise+platforms...+%5BOK%5D;%E2%96%B6+Loading+8%2B+years+of+experience...+%5BOK%5D;%E2%96%B6+Connecting+fintech+%26+banking+modules...+%5BOK%5D;%E2%96%B6+All+systems+operational.+%5BONLINE%5D" alt="boot"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=%E2%96%B6+Initializing+OutSystems+core...+%5BOK%5D;%E2%96%B6+Architecting+enterprise+platforms...+%5BOK%5D;%E2%96%B6+Loading+8%2B+years+of+experience...+%5BOK%5D;%E2%96%B6+Connecting+fintech+%26+banking+modules...+%5BOK%5D;%E2%96%B6+All+systems+operational.+%5BONLINE%5D)](https://gokulakannan.dev)
 
 <br/>
 
@@ -47,8 +16,6 @@ focus   : OutSystems
 [![GitHub](https://img.shields.io/badge/GitHub-161B22?style=flat-square&logo=github&logoColor=white)](https://github.com/developer-geekay)
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2&section=header" width="100%"/>
 
 ---
 
@@ -235,7 +202,7 @@ focus   : OutSystems
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:1F6FEB,100:0D1117&height=130&section=footer&text=Let%27s+build+something+remarkable&fontSize=18&fontColor=ffffff&fontAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:1F6FEB,100:0D1117&height=120&section=footer&text=Let%27s+build+something+remarkable&fontSize=16&fontColor=ffffff&fontAlignY=68" width="100%"/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=developer-geekay&color=1F6FEB&style=flat-square&label=Profile+Views)
 
