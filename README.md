@@ -1,8 +1,23 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,40:0f3460,80:1F6FEB,100:58A6FF&height=220&section=header&text=Gokula%20Kannan&fontSize=62&fontColor=ffffff&fontAlignY=42&desc=a.k.a%20developer-geekay&descAlignY=62&descSize=22&animation=twinkling" width="100%"/>
+<!-- HERO -->
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0D1117,30:0f1923,70:0f3460,100:1F6FEB&height=260&section=header&text=%3E_%20GOKULA%20KANNAN&fontSize=48&fontColor=58A6FF&fontAlignY=45&desc=Technical%20Architect%20%2F%2F%20developer-geekay&descAlignY=65&descSize=18&descColor=8b949e&animation=blinking&stroke=1F6FEB&strokeWidth=1" width="100%"/>
+
+</div>
+
+```bash
+$ init --user developer-geekay
+
+  Initializing OutSystems core...          [OK]
+  Architecting enterprise platforms...     [OK]
+  Loading 8+ years of experience...        [OK]
+  Connecting fintech & banking modules...  [OK]
+  Status: ONLINE
+```
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=800&lines=Technical+Architect+%7C+8%2B+Years;OutSystems+Architecture+%26+Enterprise+Integrations;Fintech+%7C+Banking+%7C+Insurance+%7C+Digital+Transformation;Low-Code+%2B+High-Code+%7C+Full-Stack+Engineering;Architecting+platforms+that+scale+%F0%9F%8F%97%EF%B8%8F)](https://gokulakannan.dev)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=800&lines=Technical+Architect+%7C+8%2B+Years;OutSystems+Architecture+%26+Enterprise+Integrations;Fintech+%7C+Banking+%7C+Insurance+%7C+Digital+Transformation;Low-Code+%2B+High-Code+%7C+Full-Stack+Engineering;Architecting+platforms+that+scale+%F0%9F%8F%97%EF%B8%8F)](https://gokulakannan.dev)
 
 <br/>
 
