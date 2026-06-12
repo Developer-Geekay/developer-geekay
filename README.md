@@ -10,7 +10,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/developer-geekay)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:developergeekay@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-161B22?style=flat-square&logo=github&logoColor=white)](https://github.com/developer-geekay)
-![Status](https://img.shields.io/badge/Status-Available%20for%20Opportunities-22c55e?style=flat-square)
 
 </div>
 
@@ -20,16 +19,14 @@
 
 ```json
 {
-  "name"        : "Gokula Kannan",
-  "alias"       : "developer-geekay",
-  "role"        : "Technical Architect",
-  "experience"  : "8+ years",
-  "domains"     : ["Fintech", "Banking", "Insurance", "Digital Transformation"],
-  "speciality"  : "OutSystems Architecture · Enterprise Integrations · Mobile Solutions",
-  "education"   : "Master of Computer Applications (MCA)",
-  "website"     : "https://gokulakannan.dev",
-  "status"      : "Available",
-  "motto"       : "Architect for scale. Build for humans."
+  "name"       : "Gokula Kannan",
+  "alias"      : "developer-geekay",
+  "role"       : "Technical Architect",
+  "experience" : "8+ years",
+  "domains"    : ["Fintech", "Banking", "Insurance", "Digital Transformation"],
+  "speciality" : "OutSystems Architecture · Enterprise Integrations · Mobile Solutions",
+  "website"    : "https://gokulakannan.dev",
+  "motto"      : "Architect for scale. Build for humans."
 }
 ```
 
@@ -38,24 +35,7 @@
 
 ---
 
-### 🧠 What I Do
-
-```
-╭────────────────────────────────────────────────────────────────────────────╮
-│                                                                          │
-│  🏗️  Architect   →  Enterprise platforms · Microservices · Multi-tenant     │
-│  🔗  Integrate   →  OutSystems low-code ✕ custom high-code stacks             │
-│  ⚡  Engineer    →  Scalable APIs · Offline-first · Performance-tuned        │
-│  📱  Mobile      →  Native + Hybrid mobile solutions via OutSystems           │
-│  🚀  Deliver     →  DevOps · CI/CD · Production-ready from day one            │
-│  🤝  Lead        →  Mentoring teams · Architecture standards · Tech strategy   │
-│                                                                          │
-╰────────────────────────────────────────────────────────────────────────────╯
-```
-
----
-
-### 🛠️ Arsenal
+### 🛠️ Tech Stack
 
 <details open>
 <summary><b>🎨 Frontend</b></summary>
@@ -114,53 +94,6 @@
 
 ---
 
-### 🚀 Deployment Logs — Featured Projects
-
-| Project | Domain | Stack | What it does |
-|---|---|---|---|
-| **Enterprise Digital Platform** | Fintech | OutSystems · Angular · PayPal · MapBox | Low-code enterprise platform with legacy integrations, native mobile plugins & custom payment flows |
-| **OutSystems DevTools** | Tooling | Chrome Extension · OutSystems | Developer productivity extension — app inspection, network monitoring, bulk title engine |
-| **Dealer Award Systems** | Automotive | OutSystems · Angular | End-to-end architecture & delivery for Jeep's global dealer recognition program |
-| **First Notice of Loss (FNOL)** | Insurance | OutSystems · React | Enterprise insurance claim management platform — full end-to-end FNOL flows |
-
----
-
-### 💼 Career History
-
-```
-2021 ─ Present  │  Technical Architect        │ ● CURRENT
-                 │  Leading architecture & delivery of Enterprise Digital Platform
-                 │  Tech lead across Angular, React & OutSystems stacks
-                 │  Establishing architecture standards & best practices
-
-2019 ─ 2021     │  Technical Architect
-                 │  Architecture leadership for enterprise banking/motors platforms
-                 │  Led solution design for Dealer Award Systems & FNOL
-                 │  Defined architecture standards & developer practices
-
-2017 ─ 2019     │  Senior Software Engineer
-                 │  Technical analysis & guidance for a cross-functional team
-                 │  Architecture planning & FNOL insurance platform delivery
-
-2015 ─ 2017     │  Senior Software Engineer
-                 │  Dual-app web/React delivery & story writing
-                 │  Release management & increment ownership
-
-2014 ─ 2015     │  Software Engineer
-                 │  Architected OutSystems low-code solutions
-                 │  Built scalable API metrics & reusable platform components
-
-2013 ─ 2014     │  Web Developer
-                 │  Cloud migration & virtualization solutions
-                 │  Responsive web applications
-
-2011 ─ 2013     │  Web Developer
-                 │  Database-backed web & mobile applications
-                 │  Payment gateway integrations & business systems
-```
-
----
-
 ### 📊 GitHub Stats
 
 <div align="center">
@@ -179,53 +112,6 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=developer-geekay&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=ffffff&area=true" width="100%"/>
 
 </div>
-
----
-
-### 🏆 Certifications & Education
-
-<table>
-  <tr>
-    <td valign="top" width="55%">
-
-**📜 Certifications**
-- OutSystems React — Certified
-- OutSystems Front-end Developer Specialist (R&I · SR1)
-- OutSystems Associate Developer (SD1)
-- OutSystems Associate Developer Plus
-- OutSystems Associate Mobile Runtime Developer
-- Angular — The Complete Guide
-- AngularJS Certified Professional Developer
-
-    </td>
-    <td valign="top" width="45%">
-
-**🎓 Education**
-- **Master of Computer Applications (MCA)**
-
-**🏅 Awards**
-- Best Team Player Award — *Accenture*
-
-**🌍 Languages**
-- Tamil — Native
-- English — Professional
-- Hindi — Limited
-
-    </td>
-  </tr>
-</table>
-
----
-
-### 🎯 Right Now
-
-| | |
-|---|---|
-| 🔨 Building | Production enterprise platforms bridging OutSystems low-code & custom engineering |
-| 🌱 Exploring | Edge computing patterns & scalable offline-first architectures |
-| 🤝 Open to | Architecture consulting · OSS collaboration · Interesting enterprise problems |
-| 💬 Ask me | OutSystems · System design · Low-code strategy · Full-stack architecture |
-| ⚡ Alias | **developer-geekay** — my dev identity across the internet |
 
 ---
 
