@@ -26,7 +26,7 @@
   "name"       : "Gokula Kannan",
   "alias"      : "developer-geekay",
   "role"       : "Technical Architect",
-  "experience" : "8+ years",
+  "experience" : "9+ years",
   "domains"    : ["Fintech", "Banking", "Insurance", "Digital Transformation"],
   "speciality" : "OutSystems Architecture · Enterprise Integrations · Mobile Solutions",
   "website"    : "https://gokulakannan.dev",
@@ -34,7 +34,7 @@
 }
 ```
 
-> Technical Architect with **8+ years** designing and delivering enterprise-grade applications across **banking, financial services, insurance** and digital transformation initiatives.
+> Technical Architect with **9+ years** designing and delivering enterprise-grade applications across **banking, financial services, insurance** and digital transformation initiatives.
 > Specialized in **OutSystems architecture**, enterprise integrations, mobile solutions, and multi-stack development — with proven expertise in solution design, performance optimization, and technical leadership.
 
 ---
