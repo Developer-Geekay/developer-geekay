@@ -37,7 +37,7 @@
   <text x="80" y="128" font-family="'Courier New', Courier, monospace" font-size="46" font-weight="700" fill="#FFFFFF" letter-spacing="3" opacity="0.97">GOKULA KANNAN</text>
   <rect x="80" y="136" width="360" height="2" rx="1" fill="url(#accentLine)" opacity="0.8"/>
   <text x="82" y="168" font-family="'Courier New', Courier, monospace" font-size="17" fill="#58A6FF" letter-spacing="5">TECHNICAL ARCHITECT</text>
-  <text x="83" y="196" font-family="'Courier New', Courier, monospace" font-size="13" fill="#8b949e" letter-spacing="1">// developer-geekay · 9+ years · OutSystems · Fintech · Banking</text>
+  <text x="83" y="196" font-family="'Courier New', Courier, monospace" font-size="13" fill="#8b949e" letter-spacing="1">// developer-geekay · 9+ years · OutSystems · Fintech</text>
 
   <rect x="600" y="0" width="300" height="280" fill="url(#fadeRight)"/>
 
